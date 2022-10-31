@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crudd-context/static/css/main.93080453.chunk.css",
+    "main.js": "/crudd-context/static/js/main.0e6ee3f4.chunk.js",
+    "main.js.map": "/crudd-context/static/js/main.0e6ee3f4.chunk.js.map",
+    "runtime-main.js": "/crudd-context/static/js/runtime-main.6d09856c.js",
+    "runtime-main.js.map": "/crudd-context/static/js/runtime-main.6d09856c.js.map",
+    "static/css/2.0910520a.chunk.css": "/crudd-context/static/css/2.0910520a.chunk.css",
+    "static/js/2.2b8b44da.chunk.js": "/crudd-context/static/js/2.2b8b44da.chunk.js",
+    "static/js/2.2b8b44da.chunk.js.map": "/crudd-context/static/js/2.2b8b44da.chunk.js.map",
+    "static/js/3.d255bf1e.chunk.js": "/crudd-context/static/js/3.d255bf1e.chunk.js",
+    "static/js/3.d255bf1e.chunk.js.map": "/crudd-context/static/js/3.d255bf1e.chunk.js.map",
+    "index.html": "/crudd-context/index.html",
+    "static/css/2.0910520a.chunk.css.map": "/crudd-context/static/css/2.0910520a.chunk.css.map",
+    "static/css/main.93080453.chunk.css.map": "/crudd-context/static/css/main.93080453.chunk.css.map",
+    "static/js/2.2b8b44da.chunk.js.LICENSE.txt": "/crudd-context/static/js/2.2b8b44da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d09856c.js",
+    "static/css/2.0910520a.chunk.css",
+    "static/js/2.2b8b44da.chunk.js",
+    "static/css/main.93080453.chunk.css",
+    "static/js/main.0e6ee3f4.chunk.js"
+  ]
+}
